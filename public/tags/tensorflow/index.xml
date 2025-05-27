@@ -9,14 +9,14 @@
     <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Automated Monitoring and Alert System - Coogee Chemicals</title>
+      <title>Automated Production Monitoring</title>
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/coogee_cv/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/coogee_cv/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time object detection and instance segmentation via live camera of industrial machinery to optimize operational performance. Full ML pipeline, labelling, training, inference and deployment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for automation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;video-demo&#34;&gt;Video Demo&lt;/h3&gt;&#xA;&lt;iframe width=&#34;880&#34; height=&#34;520&#34; src=&#34;https://www.youtube.com/embed/63AH2FNjILU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Show custom_trained model detecting the different belt classes during operation.&lt;/li&gt;&#xA;&lt;li&gt;Setup for both real-time RTSP stream of plant CCTV footage and recorded mp4 footage for testing&lt;/li&gt;&#xA;&lt;li&gt;Graph displays real-time class outputs for easier visual reference&lt;/li&gt;&#xA;&lt;li&gt;Data is logged in Real Time&lt;/li&gt;&#xA;&lt;li&gt;Digital outputs Sending HIGH and LOW signals via NIDaq (National Instruments Digital to Analag Converter)&lt;/li&gt;&#xA;&lt;li&gt;Communicates directly with Siemens PLC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;additional-ml-projects-implemented-on-cctv-footage&#34;&gt;Additional ML Projects Implemented on CCTV footage:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Inference analysing the status of machine, capable of sending alerts when machine breaks&lt;/li&gt;&#xA;&lt;li&gt;Improvements needed to predict / stop the machine before it breaks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/Coogee/Atomiser_inferece.gif&#34; alt=&#34;Atomiser Start&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;/br&gt;&#xA;&lt;img src=&#34;../../images/Coogee/Atomiser_break.gif&#34; alt=&#34;Atomiser Break&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Particle Analysis with Machine Learning - Coogee Chemicals</title>
+      <title>Particle Analysis with ML and CV</title>
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/coogee_particle/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/coogee_particle/</guid>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Embedded Systems on Hugo Profile</title>
-    <link>http://localhost:1313/tags/embedded-systems/</link>
-    <description>Recent content in Embedded Systems on Hugo Profile</description>
+    <title>Embedded Systems on Luke&#39;s Profile</title>
+    <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-systems/</link>
+    <description>Recent content in Embedded Systems on Luke&#39;s Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Humanoid Soft-Robotic Hand</title>
-      <link>http://localhost:1313/projects/humanoidhand/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/humanoidhand/</guid>
-      <description>&lt;p&gt;Made in collaboration with Melbourne Humanoid Robotics lab (cite)&lt;/p&gt;&#xA;&lt;p&gt;Simple single motor design intended for gripping single objects.&lt;/p&gt;&#xA;&lt;p&gt;** VIDEO HERE OF GRIPPING **&lt;/p&gt;&#xA;&lt;h2 id=&#34;desing-decisions&#34;&gt;Desing Decisions&lt;/h2&gt;&#xA;&lt;h4 id=&#34;first-prototype-experimenting-with-finger-contraction&#34;&gt;First Prototype Experimenting with finger Contraction&lt;/h4&gt;&#xA;&lt;h4 id=&#34;material-chocies&#34;&gt;Material Chocies&lt;/h4&gt;&#xA;&lt;p&gt;Chose to use X Filament&#xA;Had to switch to yada filament&lt;/p&gt;&#xA;&lt;p&gt;Then had to print the soft skin on the outside which required a secondary skin.&#xA;Most of the design choices actually came from trial and error.&lt;/p&gt;</description>
+      <title>Drill Length vs Torque</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/drill/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/drill/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; &#xA;  src=&#34;https://www.youtube.com/embed/MxE4Ym68O-w&#34; &#xA;  title=&#34;Drill Video - Mechatronics Systems Design&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;Designed a experimental system to measure the relationship between Archimedes screw length and torque exerted on the drill.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

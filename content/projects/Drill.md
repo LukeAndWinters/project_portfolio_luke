@@ -2,12 +2,13 @@
 title: "Drill Length vs Torque"
 date: 2024-05-10
 draft: false
-description: "An autonomous UAV network for hazard detection on beaches."
+description: "Experiment to determine the relationship between archimedes screw length and torque"
 tags:
-  - Embedded System 
+  - Embedded Systems
   - Motor Control 
   - Experiment Design 
   - Data Analysis 
+  - Prototyping
 image: "/images/Drill/Drill_Zoomed_2_gif.gif"
 featured: false
 hide_feature_image: true
