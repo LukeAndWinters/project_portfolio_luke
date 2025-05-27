@@ -1,5 +1,5 @@
 ---
-title: "Particle Analysis with Machine Learning - Coogee Chemicals"
+title: "Particle Analysis with ML and CV"
 date: 2024-01-01
 draft: false
 description: "Performing particle analysis with instance segmentation on particle sample images"

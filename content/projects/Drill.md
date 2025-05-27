@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Drill Length and Torque - Experiment"
+title: "Drill Length vs Torque"
 date: 2024-05-10
 draft: false
 description: "An autonomous UAV network for hazard detection on beaches."

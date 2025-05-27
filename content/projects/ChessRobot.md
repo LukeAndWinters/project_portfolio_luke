@@ -1,5 +1,5 @@
 ---
-title: "ChessBot - Closed Loop Control"
+title: "Chess Playing Robotic Arm "
 date: 2024-06-20
 draft: false
 description: "A parallel linkage design robot, that uses velocity control to play chess!"

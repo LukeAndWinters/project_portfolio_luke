@@ -1,5 +1,5 @@
 ---
-title: "Drone Beach Safety System - Capstone"
+title: "Drone Patrol Beach Safety System "
 date: 2024-11-12
 draft: false
 description: "An autonomous drone patrol swarm for hazard detection and beach safety monitoring"

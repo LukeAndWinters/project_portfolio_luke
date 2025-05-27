@@ -1,5 +1,5 @@
 ---
-title: "Automated Production Monitoring - Computer Vision"
+title: "Automated Production Monitoring"
 date: 2025-04-01
 draft: false
 description: "Real-time object detection with live camera feed to optimize operational performance"
