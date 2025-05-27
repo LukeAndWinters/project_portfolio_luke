@@ -1,5 +1,5 @@
 ---
-title: "Automated Monitoring and Alert System - Coogee Chemicals"
+title: "Automated Production Monitoring - Computer Vision"
 date: 2025-04-01
 draft: false
 description: "Real-time object detection with live camera feed to optimize operational performance"
