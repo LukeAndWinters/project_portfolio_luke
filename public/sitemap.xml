@@ -53,10 +53,19 @@
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/unity-hdrp/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/bipedgait/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/bipedal-gait/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-modelling/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/chessrobot/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/control/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/feedback-control/</loc>
@@ -68,6 +77,9 @@
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/laser-cutting-/-assembly/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/prototyping/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/3d-printing/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -75,9 +87,6 @@
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/humanoidhand/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/prototyping/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/soft-robotics/</loc>
@@ -92,7 +101,7 @@
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/drill/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-system/</loc>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-systems/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/experiment-design/</loc>

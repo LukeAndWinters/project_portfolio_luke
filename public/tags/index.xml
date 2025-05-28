@@ -86,10 +86,24 @@
       <description></description>
     </item>
     <item>
+      <title>Bipedal Gait</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/bipedal-gait/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/bipedal-gait/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>CAD Modelling</title>
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-modelling/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-modelling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Control</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/control/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/control/</guid>
       <description></description>
     </item>
     <item>
@@ -114,6 +128,13 @@
       <description></description>
     </item>
     <item>
+      <title>Prototyping</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/prototyping/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/prototyping/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>3D Printing</title>
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/3d-printing/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
@@ -125,13 +146,6 @@
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-models/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-models/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Prototyping</title>
-      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/prototyping/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/prototyping/</guid>
       <description></description>
     </item>
     <item>
@@ -156,10 +170,10 @@
       <description></description>
     </item>
     <item>
-      <title>Embedded System</title>
-      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-system/</link>
+      <title>Embedded Systems</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-systems/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-system/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-systems/</guid>
       <description></description>
     </item>
     <item>
