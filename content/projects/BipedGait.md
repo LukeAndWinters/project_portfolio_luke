@@ -2,7 +2,7 @@
 title: "Biped Gait - Walking Robot"
 date: 2024-06-20
 draft: false
-description: "Very basic bipedal robot, to investigate parameter changes on gait and stability"
+description: "Created Basic bipedal robot, to investigate parameter changes on gait and stability"
 tags:
   - Control
   - Bipedal Gait
