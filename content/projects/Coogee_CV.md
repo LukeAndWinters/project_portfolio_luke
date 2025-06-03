@@ -34,11 +34,11 @@ Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for
 
 
 
-### Additional ML Projects Implemented on CCTV footage: 
+<!-- ### Additional ML Projects Implemented on CCTV footage: 
 - Inference analysing the status of machine, capable of sending alerts when machine breaks 
 - Improvements needed to predict / stop the machine before it breaks 
 
 ![Atomiser Start](/images/Coogee/Atomiser_inferece.gif)
 <br>
 </br>
-![Atomiser Break](/images/Coogee/Atomiser_break.gif)
+![Atomiser Break](/images/Coogee/Atomiser_break.gif) -->
